@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+debug_report.txt
+foundry.toml
+remappings.txt
